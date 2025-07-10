@@ -34,15 +34,15 @@ The system identifies the following 14 gender stereotypes in movie dialogues:
 
 ## 🧪 Phase & Module Breakdown
 
-| Module | Phase Name                        | Focus Area                             | File(s)                                  |
-|--------|----------------------------------|-----------------------------------------|-------------------------------------------|
-| 1️⃣     | Script Bias Classifier           | Stereotype detection in scripts         | `bolly_data_clean.ipynb`, `bollyLLM.ipynb` |
-| 2️⃣     | Bias Quantification              | Per-movie and per-type bias scores      | `phase3.ipynb`                            |
-| 3️⃣     | Bias Mitigation & Rewriting     | Rewrite biased lines with Mistral       | `Phase4A.ipynb`                           |
-| 4️⃣     | Feedback Report Generator        | CSV + PDF report with rewrites          | `Phase4B.ipynb`                           |
-| 5️⃣     | Poster Bias Detection (Image)    | Visual bias using BLIP2 (Vision-Language) | `poster_Bias.ipynb`                   |
-| 6️⃣     | Trailer Emotion Trends (Video)   | Gender vs Emotion over time             | `trailer_data_Vis.ipynb`                  |
-| 7️⃣     | Wikipedia Data Science           | Verbs, adjectives, centrality, songs    | `wiki_data_sci.ipynb`                     |
+| Module | Phase Name                        | Focus Area                                 | File(s)                                  |
+|--------|----------------------------------|---------------------------------------------|-------------------------------------------|
+| 1️⃣     | Script Bias Classifier           | Stereotype detection in scripts             | `bolly_data_clean.ipynb`, `bollyLLM.ipynb` |
+| 2️⃣     | Bias Quantification              | Per-movie and per-type bias scores          | `phase3.ipynb`                            |
+| 3️⃣     | Bias Mitigation & Rewriting     | Rewrite biased lines with Mistral           | `Phase4A.ipynb`                           |
+| 4️⃣     | Feedback Report Generator        | CSV + PDF report with rewrites              | `Phase4B.ipynb`                           |
+| 5️⃣     | Poster Bias Detection (Image)    | Visual bias using LLaVA-1.5–7B (VLM)        | `poster_Bias.ipynb`                       |
+| 6️⃣     | Trailer Emotion Trends (Video)   | Gender vs Emotion over time (frame-level)   | `trailer_data_Vis.ipynb`                  |
+| 7️⃣     | Wikipedia Data Science           | Verbs, adjectives, centrality, songs        | `wiki_data_sci.ipynb`                     |
 
 ---
 
