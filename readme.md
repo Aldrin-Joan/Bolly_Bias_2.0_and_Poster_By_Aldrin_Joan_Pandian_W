@@ -21,31 +21,6 @@
 
 ---
 
-## 📁 Directory Structure
-BollyAI_2_0/
-│
-├── Code/ # All analysis notebooks
-│ ├── plot/ # Phase 1–4 scripts
-│ ├── poster/ # Poster bias detection
-│ ├── trailer/ # Trailer emotion visualization
-│ └── wiki/ # Wikipedia-based gender data science
-│
-├── Data/ # Input datasets
-│ ├── images-data/ # Movie poster images
-│ ├── scripts-data/ # Raw film scripts
-│ ├── trailer-data/ # Gender-emotion over time from trailers
-│ └── wikipedia-data/ # Gendered verbs, adjectives, centrality, songs
-│
-├── output/ # All outputs and generated files
-│ ├── *.csv # Labeled data and comparisons
-│ ├── *.png # Plots and visualizations
-│ ├── *.pdf # Final PDF reports
-│
-└── readme.md # Project documentation
-
-
----
-
 ## 🧪 Phase & Module Breakdown
 
 | Module | Phase Name                        | Focus Area                             | File(s)                                  |
