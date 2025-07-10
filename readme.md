@@ -11,13 +11,24 @@
 
 ## 🧠 Bias Taxonomy (Script Module)
 
-| Stereotype Type    | Description                                               |
-|--------------------|-----------------------------------------------------------|
-| `occupation_gap`   | Female characters lack professional roles or ambitions     |
-| `agency_gap`       | Passive portrayal or lack of decision-making               |
-| `appearance_focus` | Excessive focus on beauty, clothes, body, or looks         |
-| `relationship_only`| Defined by relationships (wife, daughter, etc.)            |
-| `none`             | Neutral or progressive portrayal                           |
+The system identifies the following 14 gender stereotypes in movie dialogues:
+
+| Stereotype Type          | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `occupation_gap`         | Character lacks a job, career, or professional identity.                    |
+| `agency_gap`             | Character is passive, submissive, or lacks decision-making.                 |
+| `appearance_focus`       | Emphasis on beauty, clothes, or body (non-sexual).                          |
+| `relationship_only`      | Exists only as wife, daughter, sister, etc.                                 |
+| `screen_time_disparity`  | Dialogue indicates minimal screen presence for women.                       |
+| `dialogue_initiation_gap`| Character only responds, doesn't initiate conversations.                    |
+| `emotional_typecast`     | Shown only as emotional, irrational, or tearful.                            |
+| `domesticity_emphasis`   | Focus on homemaking roles like cooking or cleaning.                         |
+| `objectification`        | Sexualized portrayal of body through camera or narrative.                   |
+| `victim_only`            | Exists only to be harmed or rescued, lacking agency.                        |
+| `intelligence_undermined`| Character is portrayed as dumb, ditzy, or confused.                         |
+| `support_role_only`      | Exists only to support a male lead without her own arc.                     |
+| `villainization`         | Character unfairly framed as evil or manipulative.                          |
+| `none`                   | Empowering, neutral, or progressive portrayal.                              |
 
 ---
 
