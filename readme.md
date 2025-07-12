@@ -41,7 +41,7 @@ The system identifies the following 14 gender stereotypes in movie dialogues:
 | 3️⃣     | Bias Mitigation & Rewriting     | Rewrite biased lines with Mistral           | `Phase4A.ipynb`                           |
 | 4️⃣     | Feedback Report Generator        | CSV + PDF report with rewrites              | `Phase4B.ipynb`                           |
 | 5️⃣     | Poster Bias Detection (Image)    | Visual bias using LLaVA-1.5–7B (VLM)        | `poster_Bias.ipynb`                       |
-| 6️⃣     | Trailer Emotion Trends (Video)   | Gender vs Emotion over time (frame-level)   | `trailer_data_Vis.ipynb`                  |
+| 6️⃣     | Trailer Emotion Trends (Video)   | Gender vs Emotion over time (frame-level)   | `wiki_data_sci.ipynb`                     |
 | 7️⃣     | Wikipedia Data Science           | Verbs, adjectives, centrality, songs        | `wiki_data_sci.ipynb`                     |
 
 ---
